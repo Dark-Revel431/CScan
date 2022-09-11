@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "CScan": {
+      "commandName": "Project"
+    },
+    "Test": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\Revel\\source\\repos\\CScan\\Test\\bin\\Debug\\net6.0\\Test.exe"
+    }
+  }
+}
